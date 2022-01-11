@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @operator-axel
-- 👀 I’m interested in Front End Dev & Python & Data Analytics
-- 🌱 I’m currently learning HTML, CSS, JS | Python
+- 👀 I’m interested in all things and how they work but career wise looking to the gaming industry. 
+- 🌱 I’m currently learning C++, C#, HTML, CSS, Js, Python
 - 💞️ I’m looking to collaborate on everything, would really like to just help and contribute anywhere  I can _ I just love  building and sharing things
 - 📫 How to reach me axel@axelduc.com
 
